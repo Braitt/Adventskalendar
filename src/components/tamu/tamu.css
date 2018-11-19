@@ -1,0 +1,21 @@
+.one {
+    background: url('./images/background1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+}
+.space {
+    background: url('./images/backgroundSpace.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+
+    color:white;
+    padding-right: 5em;
+    padding-left: 5em;
+    font: 1.3em 'Raleway', sans-serif;
+}

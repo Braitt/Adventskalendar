@@ -4,9 +4,6 @@ class App extends Component {
   render() {
     return (
       <div className="one">
-        <header className="oneheader">
-        asdfasdfasf
-        </header>
       </div>
     );
   }
